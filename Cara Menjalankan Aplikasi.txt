@@ -1,0 +1,29 @@
+Maaf Pak bukanya ngajarin tetapi membantu supaya lebih cepat membukanya.
+1. Import Database di yg ada di folder db_1903040012
+2. Extract project ke dalam htdocs kemudian rename sesuai keinginan (karena base url sudah dinamis jadi bisa menyesuaikan)
+3. Jalankan Xampp dan localhost/namafile
+4. buka https://www.md5online.org/md5-decrypt.html
+untuk decrypt password, password di database menggunakan MD5 jadi kalau mau ubah/bikin harus MD 5 dulu.
+
+=======================
+Login Administrator
+=======================
+Username : admin
+Password : admin
+-----------------------
+Username : jeri
+Password : 1903040012
+=======================
+
+
+=======================
+Login Pengunjung
+=======================
+Username : jeriko
+Password : 123456
+-----------------------
+Username : anto
+Password : cobalagi
+=======================
+
+
